@@ -1,1 +1,4 @@
-import { day2Star1, day2Star2 } from "./day2";
+import { day3star1 } from "./day3";
+import { input } from "./input";
+
+console.log(day3star1(input));
